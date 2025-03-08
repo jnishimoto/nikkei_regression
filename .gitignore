@@ -1,0 +1,16 @@
+# Python キャッシュやコンパイル済みファイルを無視
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 仮想環境のフォルダ
+.conda/
+
+# Jupyter Notebook のチェックポイント
+.ipynb_checkpoints
+
+# VS Code の設定ファイル
+.vscode/
+
+# ログファイル
+*.log
