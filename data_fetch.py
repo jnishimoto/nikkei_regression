@@ -1,3 +1,7 @@
+# © 2025 Jun Nishimoto
+# This software is released under the MIT License.
+# See LICENSE file for details.
+
 import yfinance as yf
 import pandas as pd
 

@@ -1,3 +1,7 @@
+# © 2025 Jun Nishimoto
+# This software is released under the MIT License.
+# See LICENSE file for details.
+
 import os
 import pandas as pd
 import matplotlib.pyplot as plt

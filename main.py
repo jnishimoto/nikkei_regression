@@ -1,3 +1,7 @@
+# © 2025 Jun Nishimoto
+# This software is released under the MIT License.
+# See LICENSE file for details.
+
 #%%
 from data_fetch import fetch_data, fetch_stock_data
 from regression import run_regression, display_regression_results, save_regression_results

@@ -1,3 +1,7 @@
+# © 2025 Jun Nishimoto
+# This software is released under the MIT License.
+# See LICENSE file for details.
+
 import os
 import statsmodels.api as sm
 from statsmodels.stats.outliers_influence import variance_inflation_factor
