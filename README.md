@@ -1,6 +1,6 @@
-# Nikkei, Dow, and FX Analysis
+# Nikkei & Dow Stock Analysis
 
-This project performs regression analysis and correlation visualization for Nikkei 225, Dow 30 stocks, and FX, including heatmaps, cluster maps, and regression plots.
+This project performs regression analysis and correlation visualization for Nikkei 225 and Dow 30 stocks, including heatmaps, cluster maps, and regression plots.
 
 ## Features
 - Fetch historical stock data (Nikkei 225 & Dow 30 and USDJPY)
