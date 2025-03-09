@@ -70,6 +70,22 @@ Dow          0.595      0.00   1.2
 - `plots/20240308_153000/cluster_map.png`
 - `plots/20240308_153000/regression_plot.png`
 
+## Daily Regression
+![Daily Regression](https://github.com/jnishimoto/nikkei_regression/blob/main/plots/20250309_1245/Daily_chart.png?raw=true)
+
+## Monthly Regression
+![Monthly Regression](https://github.com/jnishimoto/nikkei_regression/blob/main/plots/20250309_1245/Monthly_chart.png?raw=true)
+
+## Yearly Regression
+![Yearly Regression](https://github.com/jnishimoto/nikkei_regression/blob/main/plots/20250309_1245/Yearly_chart.png?raw=true)
+
+## Correlation Heatmap
+![Correlation Heatmap](https://github.com/jnishimoto/nikkei_regression/blob/main/plots/20250309_1245/correlation_matrix.png?raw=true)
+
+## Cluster Map
+![Cluster Map](https://github.com/jnishimoto/nikkei_regression/blob/main/plots/20250309_1245/cluster_map.png?raw=true)
+
+
 ---
 
 ## Contributing
