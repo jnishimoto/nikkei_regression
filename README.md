@@ -70,21 +70,29 @@ Dow          0.595      0.00   1.2
 - `plots/20240308_153000/cluster_map.png`
 - `plots/20240308_153000/regression_plot.png`
 
-## Daily Regression
+#### Daily Price Regression
 ![Daily Regression](https://github.com/jnishimoto/nikkei_regression/blob/main/plots/20250309_1245/Daily_chart.png?raw=true)
 
-## Monthly Regression
+#### Monthly Price Regression
 ![Monthly Regression](https://github.com/jnishimoto/nikkei_regression/blob/main/plots/20250309_1245/Monthly_chart.png?raw=true)
 
-## Yearly Regression
+#### Yearly Price Regression
 ![Yearly Regression](https://github.com/jnishimoto/nikkei_regression/blob/main/plots/20250309_1245/Yearly_chart.png?raw=true)
 
-## Correlation Heatmap
+#### Correlation Heatmap
 ![Correlation Heatmap](https://github.com/jnishimoto/nikkei_regression/blob/main/plots/20250309_1245/correlation_matrix.png?raw=true)
 
-## Cluster Map
+#### Cluster Map
 ![Cluster Map](https://github.com/jnishimoto/nikkei_regression/blob/main/plots/20250309_1245/cluster_map.png?raw=true)
 
+#### Daily Return Regression
+![Daily Regression](https://github.com/jnishimoto/nikkei_regression/blob/main/plots/20250316_1159/Daily%20Returns_chart.png?raw=true)
+
+#### Monthly Return Regression
+![Monthly Regression](https://github.com/jnishimoto/nikkei_regression/blob/main/plots/20250316_1159/Monthly%20Returns_chart.png?raw=true)
+
+#### Yearly Return Regression
+![Yearly Regression](https://github.com/jnishimoto/nikkei_regression/blob/main/plots/20250316_1159/Yearly%20Returns_chart.png?raw=true)
 
 ---
 
