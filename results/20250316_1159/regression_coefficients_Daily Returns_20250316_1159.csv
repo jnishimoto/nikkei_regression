@@ -1,0 +1,4 @@
+,Coefficient,p-value,VIF
+const,0.0,0.546,1.001
+USDJPY,0.196,0.0,1.025
+Dow,0.221,0.0,1.025

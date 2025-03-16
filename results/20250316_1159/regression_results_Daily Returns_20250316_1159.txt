@@ -1,0 +1,14 @@
+Regression Results for Daily Returns Data
+R² (Coefficient of Determination): 0.046
+
+Regression Coefficients, p-values, and VIF:
+        Coefficient  p-value    VIF
+const         0.000    0.546  1.001
+USDJPY        0.196    0.000  1.025
+Dow           0.221    0.000  1.025
+
+Correlation Matrix:
+          Nikkei    USDJPY       Dow
+Nikkei  1.000000  0.127617  0.191093
+USDJPY  0.127617  1.000000  0.155271
+Dow     0.191093  0.155271  1.000000
